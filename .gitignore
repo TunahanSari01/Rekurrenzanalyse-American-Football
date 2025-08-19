@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Caches
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Große Datensätze
+data/
